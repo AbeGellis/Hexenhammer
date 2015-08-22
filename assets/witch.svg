@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="witch.svg"
+   inkscape:export-filename="C:\Users\Admin\Documents\My Games\LD33\assets\witch.png"
+   inkscape:export-xdpi="173.88"
+   inkscape:export-ydpi="173.88">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4172"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4166"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4162"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4158"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="226.26079"
+     inkscape:cy="615.63274"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290.08928,551.45149 -25,-5.35714 c -3.11858,8.04596 -3.34866,17.17748 -0.63923,25.37028 2.70944,8.1928 8.33846,15.38667 15.63923,19.98686 5.95644,3.75313 12.98513,5.78285 20.02538,5.78285 7.04025,0 14.06894,-2.02972 20.02538,-5.78285 7.30077,-4.60019 12.92979,-11.79406 15.63923,-19.98686 2.70943,-8.1928 2.47935,-17.32432 -0.63923,-25.37028 l -25,5.35714 -20.05076,0 z"
+       id="path4170"
+       inkscape:path-effect="#path-effect4172"
+       inkscape:original-d="m 290.08928,551.45149 -25,-5.35714 c 0,0 2.09249,36.03073 15,45.35714 10.82105,7.81883 29.22971,7.81883 40.05076,0 12.90751,-9.32641 15,-45.35714 15,-45.35714 l -25,5.35714 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccaaccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#800080;fill-rule:evenodd;stroke:#800080;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 279.74713,539.09862 20.25663,36.46194 20.25664,-36.46194 -40.51327,0 z"
+       id="path4160"
+       inkscape:path-effect="#path-effect4162"
+       inkscape:original-d="m 279.74713,539.09862 20.25663,36.46194 20.25664,-36.46194 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#800080;fill-rule:evenodd;stroke:#800080;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 279.74796,539.09949 c -2.20056,-6.41829 -1.11252,-13.87063 2.83121,-19.39186 3.94374,-5.52122 10.64037,-8.96743 17.42542,-8.96743 6.78505,0 13.48168,3.44621 17.42542,8.96743 3.94373,5.52123 5.03177,12.97357 2.83121,19.39186 l -40.51326,0"
+       id="path4164"
+       inkscape:path-effect="#path-effect4166"
+       inkscape:original-d="m 279.74796,539.09949 c 0,0 8.63968,-28.35929 20.25663,-28.35929 11.61694,0 20.25663,28.35929 20.25663,28.35929 l -40.51326,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cacc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240,532.3622 40,-10 20,-80 20,80 40,10 -120,0"
+       id="path4140"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
